@@ -1,0 +1,75 @@
+		/*yugidiv css*/
+ 		#topo{
+		background: #3b3b3b;
+		background-image: url("");/*endereço da imgem*/
+		background-size: 800px;
+		background-repeat: repeat-y;
+		background-attachment: scroll;
+		}
+		.intro{
+			background: #0033cc; 
+		}
+		.titul{
+			color:#0033cc;
+			border-width: 15px;
+			border-style: none;
+			border-color: #32cd32;
+			font-size: 50px;
+			font-family: Arial, serif;
+		}
+		.list{
+			color:#0033cc;
+		}
+		.text{
+			/*color:#0033cc;*/
+			font-size: 25px;
+		}
+		.img{
+			width: 250; 
+			height: 200;
+		}
+		.link{
+				color:#CF0E0E;
+			}
+	    .divs{
+	    	align-self: center;
+			background: #C0C0C0;
+			width: 500px;
+			border-style: none none none ;
+			border-width: 450px;
+			border-color: #303033;
+		}
+/* #c5c5b2 = cinza claro*/
+
+ /*estilo da pagina original index
+ #corpo{
+			 	background: #32cd32;
+			 }
+			.one{ 
+					color: #0033cc;
+					font-size: 16px;
+					background: #424242;
+					font-family:"Palatino Linotype","Book Antiqua", Palatino, serif; }
+			.two{
+				color: #0033cc;
+				font-size: 50 px;
+				background: ;
+				border-color: yellow;
+				border-style: none none solid none;
+				border-width: 2px;
+				font-family:"Comic Sans MS", cursive, sans-serif;
+			}
+			.tree{
+				color: #0033cc;
+				font-size: 25px;
+				background: ;
+				font-family: Arial, serif;
+			}
+			.link{
+				color:#CF0E0E;
+			}
+
+			border-width: 100px;
+			border-style: none solid none solid;
+			border-color: black;
+			*/
